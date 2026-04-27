@@ -1,8 +1,9 @@
 
 # --- Typography ---
-font-family = "FiraCode-Retina"
-font-size = 16
-adjust-cell-height = 3
+
+font-family = "Maple Mono NF CN"
+font-size = 14
+adjust-cell-height = 2
 
 # --- Theme and Colors ---
 theme = Catppuccin Mocha
@@ -39,7 +40,7 @@ clipboard-paste-bracketed-safe = true
 shell-integration = zsh
 
 # --- Claude 专属优化 ---
-initial-command = /opt/homebrew/bin/claude   # 装好claude-code后再取消注释
+# initial-command = /opt/homebrew/bin/claude   # 装好claude-code后再取消注释
 initial-window = true
 quit-after-last-window-closed = true
 notify-on-command-finish = always
